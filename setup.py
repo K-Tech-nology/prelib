@@ -4,7 +4,7 @@ setup(
     name = "preprocessing",
     version = '1.0',
     packages = ['preprocessing.transformer'],
-    package_dir = {'':'transformer'},
+#     package_dir = {'':'transformer'},
     url = 'https://github.com/K-Tech-nology/prelib',
     license = '',
     author = 'Kelvin Prawtama',
